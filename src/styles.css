@@ -258,3 +258,11 @@ input:focus + .slider {
     justify-content: space-between;
   }
 }
+.footer {
+  margin-top: 50px;
+  display: block;
+}
+
+.footer p {
+  text-align: center;
+}
