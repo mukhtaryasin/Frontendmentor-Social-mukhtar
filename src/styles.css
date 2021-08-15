@@ -264,6 +264,7 @@ input:focus + .slider {
   margin-right: 50px;
   justify-content: flex-end;
   align-items: center;
+  color: var(--very-dark-blue);
 }
 
 .footer p {
